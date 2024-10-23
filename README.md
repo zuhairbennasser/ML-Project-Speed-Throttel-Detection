@@ -3,4 +3,4 @@
 #Below steps were followed:
 Feature Selection
 Correlation and Collinearity  calculation
-Hyper parameter Tuning
+Hyper parameter TuninG
